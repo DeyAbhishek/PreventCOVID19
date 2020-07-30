@@ -1,0 +1,17 @@
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\bin\Debug\netstandard2.0\Hackathon2020AndroidApp.deps.json
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\bin\Debug\netstandard2.0\Hackathon2020AndroidApp.dll
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\bin\Debug\netstandard2.0\ref\Hackathon2020AndroidApp.dll
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\bin\Debug\netstandard2.0\Hackathon2020AndroidApp.pdb
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\obj\Debug\netstandard2.0\Hackathon2020AndroidApp.csprojAssemblyReference.cache
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\obj\Debug\netstandard2.0\MainPageWithTabs.xaml.g.cs
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\obj\Debug\netstandard2.0\Hackathon2020AndroidApp.AssemblyInfoInputs.cache
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\obj\Debug\netstandard2.0\Hackathon2020AndroidApp.AssemblyInfo.cs
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\obj\Debug\netstandard2.0\Hackathon2020AndroidApp.csproj.CoreCompileInputs.cache
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\obj\Debug\netstandard2.0\Hackathon2020AndroidApp.dll
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\obj\Debug\netstandard2.0\ref\Hackathon2020AndroidApp.dll
+C:\Users\abdey\source\repos\DC\Code\Hackathon2020\Hackathon2020AndroidApp\Hackathon2020AndroidApp\obj\Debug\netstandard2.0\Hackathon2020AndroidApp.pdb
