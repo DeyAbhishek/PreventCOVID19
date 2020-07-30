@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon2020", "Hackathon2020\Hackathon2020.csproj", "{FC7F96A1-E9B8-4FDC-9619-3A329B41DF0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPITest", "WebAPITest\WebAPITest.csproj", "{95768F90-70C9-4034-A6F3-24403948A9BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC7F96A1-E9B8-4FDC-9619-3A329B41DF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7F96A1-E9B8-4FDC-9619-3A329B41DF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7F96A1-E9B8-4FDC-9619-3A329B41DF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7F96A1-E9B8-4FDC-9619-3A329B41DF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95768F90-70C9-4034-A6F3-24403948A9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95768F90-70C9-4034-A6F3-24403948A9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95768F90-70C9-4034-A6F3-24403948A9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95768F90-70C9-4034-A6F3-24403948A9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F72E600-4997-4979-885D-D3BD4D9AC3E1}
+	EndGlobalSection
+EndGlobal
